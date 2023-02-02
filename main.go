@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/notrobot1/del/basic"
-    "github.com/notrobot1/del/advanced"
+    "del/basic"
+    "del/advanced"
 )
 
 func main() {
