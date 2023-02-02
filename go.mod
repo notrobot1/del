@@ -1,3 +1,3 @@
-module test
+module del
 
 go 1.18
